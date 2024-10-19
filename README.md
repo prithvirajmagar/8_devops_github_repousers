@@ -1,4 +1,4 @@
-git clone < url of repo>
+git clone < url of repo> <-b>
 cd folder
 export username= "xxxxxxxxxxxxxxx"
 export token= " xxxxxx"
